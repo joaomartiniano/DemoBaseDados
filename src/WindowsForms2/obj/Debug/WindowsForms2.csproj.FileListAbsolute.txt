@@ -1,0 +1,66 @@
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\WindowsForms2.exe
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\WindowsForms2.pdb
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\BouncyCastle.Crypto.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\Google.Protobuf.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\K4os.Compression.LZ4.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\K4os.Hash.xxHash.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\MySql.Data.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Buffers.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Memory.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Numerics.Vectors.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\Ubiety.Dns.Core.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\Zstandard.Net.dll
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\Google.Protobuf.pdb
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\Google.Protobuf.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\K4os.Compression.LZ4.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\K4os.Hash.xxHash.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\MySql.Data.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Buffers.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Memory.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Numerics.Vectors.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.csprojAssemblyReference.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.csproj.CoreCompileInputs.cache
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.csproj.CopyComplete
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.exe
+G:\Dropbox\Brotero 2020-2021\PSI - 11PSI1\Modulo 14 - Linguagem de Manipulacao de Dados\DemoBaseDados\WindowsForms2\obj\Debug\WindowsForms2.pdb
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\WindowsForms2.exe.config
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\WindowsForms2.exe
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\WindowsForms2.pdb
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\BouncyCastle.Crypto.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\Google.Protobuf.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\K4os.Compression.LZ4.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\K4os.Hash.xxHash.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\MySql.Data.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Buffers.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Memory.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Numerics.Vectors.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\Ubiety.Dns.Core.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\Zstandard.Net.dll
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\Google.Protobuf.pdb
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\Google.Protobuf.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\K4os.Compression.LZ4.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\K4os.Hash.xxHash.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\MySql.Data.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Buffers.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Memory.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Numerics.Vectors.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.csprojAssemblyReference.cache
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.Form1.resources
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.Properties.Resources.resources
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.csproj.GenerateResource.cache
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.csproj.CoreCompileInputs.cache
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.csproj.CopyComplete
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.exe
+D:\MEOCloud\Projetos\Projetos Escola\[2020-2021] DemoBaseDados\Projeto\src\WindowsForms2\obj\Debug\WindowsForms2.pdb
