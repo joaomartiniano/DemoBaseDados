@@ -6,7 +6,7 @@ Os projetos demonstram diferentes conceitos e técnicas para atingir este objeti
 
 ## Descrição
 
-É fornecida uma solução com vários projetos, os quais demonstram vários conceitos:
+É fornecida uma solução de Visual Studio com vários projetos, os quais demonstram vários conceitos:
 - **ProjetoConsola**: demonstra como num projeto de consola, efetuar a ligação à base de dados e mostrar dados de uma tabela simples
 - **WindowsForms1**: obter dados de uma tabela simples e colocar os dados em 3 controlos diferentes (ListBox, ListView e ComboBox)
 - **WindowsForms2**: obter dados de uma tabela mais complexa (tabela ```Produtos```) e popular vários controlos com os dados dados obtidos
